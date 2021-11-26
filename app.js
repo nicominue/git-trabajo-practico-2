@@ -1,7 +1,7 @@
 const movies = require('./movies.json');
 
 /**
- * Complete with a brief definition of what this function should do
+ * The @returns tag documents the value that a function returns, in this case an array.
  * @returns {Array}
  */
 function getFirstTenMovies(){
@@ -9,7 +9,8 @@ function getFirstTenMovies(){
 }
 
 /**
- * Complete with a brief definition of what this function should do
+ * The @param tag requires you to specify the name of the parameter you are documenting, the parameter's type
+ * (enclosed in curly brackets) and a description of the parameter.
  * @param  {String} genre
  * @returns {Array}
  */
